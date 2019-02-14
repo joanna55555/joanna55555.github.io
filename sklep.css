@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #f7f7f7;
+    align-items: center;
+}
+#container{
+    
+}
+.logo {
+    color:#ff8e02;
+}
+.menu .produkty{
+    color:#ff8e02;
+}
+.button{
+    background-color:#ff8e02;
+    border-color:  #f7f7f7;
+    height: 38px;
+    width: 196px;
+    margin:19px;
+    border-radius: 38px;
+    text-align: center;
+}
+.nagłówek{
+    font-size:24pt;
+    text-align: center;
+}
+.pasek menu .menu{
+    font-size:16pt;
+    margin:auto;
+    justify-content:center;
+    display: flex;
+    flex-wrap:wrap;
+}
+.tabela
+{
+    background-color: #ff8e02;
+    
+}
+.dane {
+    background-color: black;
+    color: #f7f7f7;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap:wrap;
+}
+.white{
+    color:#f7f7f7;
+    font-size: 24pt;
+    margin:auto;
+}
+.orange{
+    color: #ff8e02;
+    font-size: 12pt;
+    margin:28pt;
+}
+.pictograms{
+    justify-content: center;
+    display: flex;
+    flex-wrap:wrap;
+}
+.picto{
+    width: 25%;
+}
+.narzędzia{
+    font-size:72pt;
+    font-style: bold;
+    color: #f7f7f7;
+    margin:85pt;
+}
+.narzędzia2{
+    font-size:16pt;
+    color: #f7f7f7;
+    margin:auto;
+    text-align: center;
+}
+.cytat{
+    font-size: 36pt;
+    margin:62;
+    color:#ff8e02;
+    text-align: center;
+}
+.fiskars{
+    font-size:16pt;
+    margin:37;
+    color: black;
+    text-align: center;
+
+}
